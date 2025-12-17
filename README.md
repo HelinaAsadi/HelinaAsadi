@@ -1,6 +1,6 @@
 ## Hey I'm Helina
 ML Engineer<br/>
-Here's me on [LinkedIn]([www.linkedin.com/in/helina-asadi-6aba85220](https://www.linkedin.com/in/helina-asadi-6aba85220/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BlW4yb8PSQ4aCJH%2Bl9VZ%2FUw%3D%3D))<br/>
+Here's me on [LinkedIn](https://www.linkedin.com/in/helina-asadi-6aba85220/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BlW4yb8PSQ4aCJH%2Bl9VZ%2FUw%3D%3D)<br/>
 Bachelor of Computer Engineering at the Tabriz University<br/>
 
 <!--
