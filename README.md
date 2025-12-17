@@ -1,4 +1,7 @@
-## hey there 
+## Hey I'm Helina
+ML Engineer<br/>
+Here's me on [LinkedIn](www.linkedin.com/in/helina-asadi-6aba85220)<br/>
+Bachelor of Computer Engineering at the Tabriz University<br/>
 
 <!--
 **HelinaAsadi/HelinaAsadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
